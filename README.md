@@ -103,15 +103,15 @@
 <h3>7. Configure Agents (Help Desk Staff)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Add New</strong> to add support agents.</p>
 <ul>
-    <li><strong>Jane</strong> – Assigned to <em>SysAdmins</em>.</li>
-    <li><strong>John</strong> – Assigned to <em>Support</em>.</li>
+    <li><strong>Example:</strong> Jane – Assigned to <em>SysAdmins</em>.</li>
+    <li><strong>Example:</strong> John – Assigned to <em>Support</em>.</li>
 </ul>
 
 <h3>8. Configure Users (End Customers)</h3>
 <p>Navigate to <strong>Agent Panel → Users → Add New</strong> to register users who will submit tickets.</p>
 <ul>
-    <li><strong>Karen</strong></li>
-    <li><strong>Ken</strong></li>
+    <li><strong>Example:</strong> Karen</li>
+    <li><strong>Example:</strong> Ken</li>
 </ul>
 
 <h3>9. Configure SLA (Service Level Agreements)</h3>
@@ -121,6 +121,10 @@
     <li><strong>Sev-B:</strong> 4-hour grace period, 24/7 support.</li>
     <li><strong>Sev-C:</strong> 8-hour grace period, Business Hours only.</li>
 </ul>
+<br />
+
+![image](https://github.com/user-attachments/assets/3b30245c-6c18-43d1-92d3-ac6b9ceff78b)
+<br />
 
 <h3>10. Configure Help Topics (Ticket Categories)</h3>
 <p>Navigate to <strong>Admin Panel → Manage → Help Topics</strong> to create predefined ticket categories.</p>
