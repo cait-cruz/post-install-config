@@ -41,25 +41,25 @@
 
 <hr>
 
-<h2>1. Access osTicket</h2>
+<h3>1. Access osTicket</h3>
 <ul>
     <li><strong>Admin/Analyst Login Page:</strong> <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
     <li><strong>End User Portal:</strong> <a href="http://localhost/osTicket">http://localhost/osTicket</a></li>
 </ul>
 
-<h2>2. Understand the Agent Panel vs. Admin Panel</h2>
+<h3>2. Understand the Agent Panel vs. Admin Panel</h3>
 <ul>
     <li><strong>Admin Panel:</strong> Used for system-wide configurations, including agents, roles, departments, and SLAs.</li>
     <li><strong>Agent Panel:</strong> Used by support staff to manage and respond to tickets.</li>
 </ul>
 
-<h2>3. Configure Roles (Permissions for Agents)</h2>
+<h3>3. Configure Roles (Permissions for Agents)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Roles</strong> to define roles based on access levels.</p>
 <ul>
     <li><strong>Example Role:</strong> <em>Supreme Admin</em> – Grants full administrative privileges.</li>
 </ul>
 
-<h2>4. Configure Departments (Ticket Visibility & Routing)</h2>
+<h3>4. Configure Departments (Ticket Visibility & Routing)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Departments</strong> to create departments based on ticket categories.</p>
 <ul>
     <li><strong>SysAdmins</strong> – Handles IT infrastructure and system issues.</li>
@@ -67,34 +67,34 @@
     <li><strong>Networking</strong> – Manages network-related issues.</li>
 </ul>
 
-<h2>5. Configure Teams (Cross-Department Collaboration)</h2>
+<h3>5. Configure Teams (Cross-Department Collaboration)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Teams</strong> to group agents across different departments.</p>
 <ul>
     <li><strong>Example Team:</strong> <em>Online Banking</em> – Consists of agents from multiple departments to handle online banking support.</li>
 </ul>
 
-<h2>6. Allow or Restrict Ticket Creation</h2>
+<h3>6. Allow or Restrict Ticket Creation</h3>
 <p>Navigate to <strong>Admin Panel → Settings → User Settings</strong> to control ticket submission rules.</p>
 <ul>
     <li><strong>To allow anyone to create tickets:</strong> <em>UNCHECK</em> "Require registration and login to create tickets."</li>
     <li><strong>To require user registration before ticket creation:</strong> <em>CHECK</em> "Require registration and login to create tickets."</li>
 </ul>
 
-<h2>7. Configure Agents (Help Desk Staff)</h2>
+<h3>7. Configure Agents (Help Desk Staff)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Add New</strong> to add support agents.</p>
 <ul>
     <li><strong>Jane</strong> – Assigned to <em>SysAdmins</em>.</li>
     <li><strong>John</strong> – Assigned to <em>Support</em>.</li>
 </ul>
 
-<h2>8. Configure Users (End Customers)</h2>
+<h3>8. Configure Users (End Customers)</h3>
 <p>Navigate to <strong>Agent Panel → Users → Add New</strong> to register users who will submit tickets.</p>
 <ul>
     <li><strong>Karen</strong></li>
     <li><strong>Ken</strong></li>
 </ul>
 
-<h2>9. Configure SLA (Service Level Agreements)</h2>
+<h3>9. Configure SLA (Service Level Agreements)</h3>
 <p>Navigate to <strong>Admin Panel → Manage → SLA</strong> to define ticket response times based on priority.</p>
 <ul>
     <li><strong>Sev-A:</strong> 1-hour grace period, 24/7 support.</li>
@@ -102,7 +102,7 @@
     <li><strong>Sev-C:</strong> 8-hour grace period, Business Hours only.</li>
 </ul>
 
-<h2>10. Configure Help Topics (Ticket Categories)</h2>
+<h3>10. Configure Help Topics (Ticket Categories)</h3>
 <p>Navigate to <strong>Admin Panel → Manage → Help Topics</strong> to create predefined ticket categories.</p>
 <ul>
     <li><strong>Business Critical Outage</strong></li>
