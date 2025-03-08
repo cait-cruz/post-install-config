@@ -135,7 +135,11 @@
     <li><strong>Password Reset</strong></li>
     <li><strong>Other</strong></li>
 </ul>
+<br />
 
+![image](https://github.com/user-attachments/assets/fe905d87-30d2-41e6-b1d0-9cc661f63e3b)
+<br />
+<br />
 <hr>
 
 <h3>🎉 Congratulations! osTicket is now fully configured and ready for use. 🎉</h3>
