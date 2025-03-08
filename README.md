@@ -73,12 +73,21 @@
     <li><strong>Help Desk</strong> – Provides general IT support.</li>
     <li><strong>Networking</strong> – Manages network-related issues.</li>
 </ul>
+<br />
+
+![image](https://github.com/user-attachments/assets/a3f2e545-ab3d-4af2-9e83-79ae91354321)
+<br />
+
 
 <h3>5. Configure Teams (Cross-Department Collaboration)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Teams</strong> to group agents across different departments.</p>
 <ul>
     <li><strong>Example Team:</strong> <em>Online Banking</em> – Consists of agents from multiple departments to handle online banking support.</li>
 </ul>
+<br />
+
+![image](https://github.com/user-attachments/assets/a0e18d27-7000-4d9b-aa5f-b248065c909d)
+<br />
 
 <h3>6. Allow or Restrict Ticket Creation</h3>
 <p>Navigate to <strong>Admin Panel → Settings → User Settings</strong> to control ticket submission rules.</p>
@@ -86,6 +95,10 @@
     <li><strong>To allow anyone to create tickets:</strong> <em>UNCHECK</em> "Require registration and login to create tickets."</li>
     <li><strong>To require user registration before ticket creation:</strong> <em>CHECK</em> "Require registration and login to create tickets."</li>
 </ul>
+<br />
+
+![image](https://github.com/user-attachments/assets/f8fd3599-d691-40b6-ba4c-e838cffdc1ab)
+<br />
 
 <h3>7. Configure Agents (Help Desk Staff)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Add New</strong> to add support agents.</p>
