@@ -6,7 +6,6 @@
 
 <h1>Post-Installation Configuration of osTicket</h1>
 <p>This tutorial outlines the <strong>post-installation configuration</strong> of <strong>osTicket</strong>, an open-source help desk ticketing system. These steps ensure proper user roles, ticket visibility, agent assignments, and service level agreements (SLAs) for effective ticket management.</p>
-<br />
 <hr>
 
 <h2>Environments & Technologies Used</h2>
@@ -18,15 +17,13 @@
     <li><strong>HeidiSQL</strong> – Database administration tool</li>
     <li><strong>Remote Desktop Protocol (RDP)</strong> – Used to access the virtual machine (if applicable)</li>
 </ul>
-<br />
 
 <h2>Operating Systems Used</h2>
 <ul>
     <li><strong>Windows 10</strong> (or Windows Server for production environments)</li>
 </ul>
-<br />
 
-<h2>Post-Installation Configuration Objectives</h2>
+<h2>Objectives</h2>
 <ul>
     <li>Understand the difference between the <strong>Admin Panel</strong> and <strong>Agent Panel</strong>.</li>
     <li>Set up <strong>Roles</strong> to define agent permissions.</li>
@@ -37,10 +34,12 @@
     <li>Set up <strong>SLA Policies</strong> to manage response times for different priority levels.</li>
     <li>Define <strong>Help Topics</strong> for efficient ticket categorization.</li>
 </ul>
-<br />
 
 <hr>
 
+<h2>Post-Installation Configuration</h2>
+<ul>
+    
 <h3>1. Access osTicket</h3>
 <ul>
     <li><strong>Admin/Analyst Login Page:</strong> <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
@@ -129,11 +128,11 @@
 <h3>10. Configure Help Topics (Ticket Categories)</h3>
 <p>Navigate to <strong>Admin Panel → Manage → Help Topics</strong> to create predefined ticket categories.</p>
 <ul>
-    <li><strong>Business Critical Outage</strong></li>
-    <li><strong>Personal Computer Issues</strong></li>
-    <li><strong>Equipment Request</strong></li>
-    <li><strong>Password Reset</strong></li>
-    <li><strong>Other</strong></li>
+    <li>Business Critical Outage</li>
+    <li>Personal Computer Issues</li>
+    <li>Equipment Request</li>
+    <li>Password Reset</li>
+    <li>Other</li>
 </ul>
 <br />
 
