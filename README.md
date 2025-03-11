@@ -72,9 +72,7 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/a3f2e545-ab3d-4af2-9e83-79ae91354321)
-<br />
-
+![image](https://github.com/user-attachments/assets/970a2dcb-dfee-42b6-af14-4ea997adee2a)
 
 <h3>5. Configure Teams (Cross-Department Collaboration)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Teams</strong> to group agents across different departments.</p>
