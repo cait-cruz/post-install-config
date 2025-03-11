@@ -81,8 +81,7 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/a0e18d27-7000-4d9b-aa5f-b248065c909d)
-<br />
+![image](https://github.com/user-attachments/assets/4d64da2a-0c45-46c9-933b-1c10edc82908)
 
 <h3>6. Allow or Restrict Ticket Creation</h3>
 <p>Navigate to <strong>Admin Panel → Settings → User Settings</strong> to control ticket submission rules.</p>
@@ -92,8 +91,7 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/f8fd3599-d691-40b6-ba4c-e838cffdc1ab)
-<br />
+![image](https://github.com/user-attachments/assets/987af34b-70f4-488f-b563-5c69de6186ee)
 
 <h3>7. Configure Agents (Help Desk Staff)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Add New</strong> to add support agents.</p>
