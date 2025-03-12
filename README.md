@@ -134,7 +134,8 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/27bfed4d-b247-45fe-aa1e-94fac59fb76a)
+![image](https://github.com/user-attachments/assets/727e1ebf-3707-4f78-a1b1-30d5501e682c)
+
 
 <h3>10. Configure Help Topics (Ticket Categories)</h3>
 <p>Navigate to <strong>Admin Panel → Manage → Help Topics</strong> to create predefined ticket categories.</p>
@@ -147,8 +148,10 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/75a55e8f-f1eb-47e6-b58b-051a0f95e98e)
-<br />
+![image](https://github.com/user-attachments/assets/5adc0d29-bf5c-4dc8-992f-3fb5392953be)
+
+![image](https://github.com/user-attachments/assets/95ecf4ad-cdf7-4547-9ac7-0ec6eca4fb52)
+
 <br />
 <hr>
 
