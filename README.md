@@ -98,11 +98,12 @@
 
 
 <h3>7. Configure Agents (Help Desk Staff)</h3>
-<p>Navigate to <strong>Admin Panel → Agents → Add New</strong> to add support agents. Configure their <strong>Access, Permissions, and Teams</strong>where applicable.</p>
+<p>Navigate to <strong>Admin Panel → Agents → Add New</strong> to add support agents. Configure their <strong>Access, Permissions, and Teams</strong> where applicable.</p>
 <ul>
     <li><strong>Example:</strong> Jane – Assigned to <em>SysAdmins</em>.</li>
     <li><strong>Example:</strong> John – Assigned to <em>Support</em>.</li>
 </ul>
+</br>
 
 ![image](https://github.com/user-attachments/assets/fae4e636-adae-4f86-a730-d59455995f9c)
 
