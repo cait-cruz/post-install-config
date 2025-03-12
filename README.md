@@ -73,7 +73,8 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/970a2dcb-dfee-42b6-af14-4ea997adee2a)
+![image](https://github.com/user-attachments/assets/2dfb5ed1-fa4f-4b70-b359-f4cd75702f8a)
+
 
 <h3>5. Configure Teams (Cross-Department Collaboration)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Teams</strong> to group agents across different departments.</p>
@@ -82,7 +83,8 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/4d64da2a-0c45-46c9-933b-1c10edc82908)
+![image](https://github.com/user-attachments/assets/b3c184cb-4411-45bc-b5d7-9a7d4dffb842)
+
 
 <h3>6. Allow or Restrict Ticket Creation</h3>
 <p>Navigate to <strong>Admin Panel → Settings → User Settings</strong> to control ticket submission rules.</p>
@@ -92,14 +94,23 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/987af34b-70f4-488f-b563-5c69de6186ee)
+![image](https://github.com/user-attachments/assets/ff575b13-0342-4d16-81ae-f1190012a8ff)
+
 
 <h3>7. Configure Agents (Help Desk Staff)</h3>
-<p>Navigate to <strong>Admin Panel → Agents → Add New</strong> to add support agents.</p>
+<p>Navigate to <strong>Admin Panel → Agents → Add New</strong> to add support agents. Configure their <strong>Access, Permissions, and Teams</strong>where applicable.</p>
 <ul>
     <li><strong>Example:</strong> Jane – Assigned to <em>SysAdmins</em>.</li>
     <li><strong>Example:</strong> John – Assigned to <em>Support</em>.</li>
 </ul>
+
+![image](https://github.com/user-attachments/assets/fae4e636-adae-4f86-a730-d59455995f9c)
+
+![image](https://github.com/user-attachments/assets/552b70c3-088b-44a5-8df8-ba330e2f4bc1)
+
+![image](https://github.com/user-attachments/assets/ddb8c429-2fcd-453a-8195-dde4f0d5d34f)
+
+
 
 <h3>8. Configure Users (End Customers)</h3>
 <p>Navigate to <strong>Agent Panel → Users → Add New</strong> to register users who will submit tickets.</p>
