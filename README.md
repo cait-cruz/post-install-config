@@ -59,9 +59,10 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/832f7486-74d7-48c6-84bd-b58ee4823112)
+![image](https://github.com/user-attachments/assets/ca01c8fb-5aa2-42a1-b4c6-9432fe2024b6)
 
-![image](https://github.com/user-attachments/assets/a673d3fb-19b3-4119-85d2-043068c972a1)
+![image](https://github.com/user-attachments/assets/a7f8ce3c-c0ff-4148-88d7-1588eee670c4)
+
 
 <h3>4. Configure Departments (Ticket Visibility & Routing)</h3>
 <p>Navigate to <strong>Admin Panel → Agents → Departments</strong> to create departments based on ticket categories.</p>
