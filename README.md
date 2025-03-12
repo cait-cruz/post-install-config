@@ -119,6 +119,11 @@
     <li><strong>Example:</strong> Karen</li>
     <li><strong>Example:</strong> Ken</li>
 </ul>
+<br/>
+
+![image](https://github.com/user-attachments/assets/d9a1b557-0232-43f5-a266-09a3ea7b124b)
+
+![image](https://github.com/user-attachments/assets/89199c0a-5384-428a-a084-28784f4dc8db)
 
 <h3>9. Configure SLA (Service Level Agreements)</h3>
 <p>Navigate to <strong>Admin Panel → Manage → SLA</strong> to define ticket response times based on priority.</p>
