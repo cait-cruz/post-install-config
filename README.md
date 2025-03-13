@@ -61,7 +61,8 @@
 
 ![image](https://github.com/user-attachments/assets/ca01c8fb-5aa2-42a1-b4c6-9432fe2024b6)
 
-![image](https://github.com/user-attachments/assets/a7f8ce3c-c0ff-4148-88d7-1588eee670c4)
+![image](https://github.com/user-attachments/assets/1a93f6dd-cbc1-43f2-baea-980e873bee58)
+
 
 
 <h3>4. Configure Departments (Ticket Visibility & Routing)</h3>
@@ -73,7 +74,8 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/2dfb5ed1-fa4f-4b70-b359-f4cd75702f8a)
+![image](https://github.com/user-attachments/assets/1d745d63-b96e-41d4-9b04-e6bbea7f975b)
+
 
 
 <h3>5. Configure Teams (Cross-Department Collaboration)</h3>
@@ -83,7 +85,8 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/b3c184cb-4411-45bc-b5d7-9a7d4dffb842)
+![image](https://github.com/user-attachments/assets/2d94261b-b585-4f66-bd47-f723a0380e3e)
+
 
 
 <h3>6. Allow or Restrict Ticket Creation</h3>
@@ -94,7 +97,8 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/ff575b13-0342-4d16-81ae-f1190012a8ff)
+![image](https://github.com/user-attachments/assets/cec3f908-b108-46fc-aebf-b0bbb9f10e37)
+
 
 
 <h3>7. Configure Agents (Help Desk Staff)</h3>
@@ -105,11 +109,11 @@
 </ul>
 </br>
 
-![image](https://github.com/user-attachments/assets/fae4e636-adae-4f86-a730-d59455995f9c)
+![image](https://github.com/user-attachments/assets/d8ae7b0e-609a-4ec9-a704-bd876a934dad)
 
-![image](https://github.com/user-attachments/assets/552b70c3-088b-44a5-8df8-ba330e2f4bc1)
+![image](https://github.com/user-attachments/assets/1f9c1b59-859f-4253-8104-2c148acb5c8e)
 
-![image](https://github.com/user-attachments/assets/ddb8c429-2fcd-453a-8195-dde4f0d5d34f)
+![image](https://github.com/user-attachments/assets/2400c6fb-1a69-413a-82c2-427bc2471db6)
 
 
 
@@ -134,7 +138,8 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/727e1ebf-3707-4f78-a1b1-30d5501e682c)
+![image](https://github.com/user-attachments/assets/9935dd3b-0b4c-4708-a176-f96d486f75b6)
+
 
 
 <h3>10. Configure Help Topics (Ticket Categories)</h3>
@@ -148,7 +153,8 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/5adc0d29-bf5c-4dc8-992f-3fb5392953be)
+![image](https://github.com/user-attachments/assets/493803a2-bcc8-4e74-85e0-edbed7191085)
+
 
 ![image](https://github.com/user-attachments/assets/95ecf4ad-cdf7-4547-9ac7-0ec6eca4fb52)
 
