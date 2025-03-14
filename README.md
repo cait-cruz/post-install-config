@@ -154,8 +154,7 @@
 </ul>
 <br />
 
-![image](https://github.com/user-attachments/assets/493803a2-bcc8-4e74-85e0-edbed7191085)
-
+![image](https://github.com/user-attachments/assets/947e47af-7ca0-4605-a87d-92217e7d3f9a)
 
 ![image](https://github.com/user-attachments/assets/95ecf4ad-cdf7-4547-9ac7-0ec6eca4fb52)
 
